@@ -1,0 +1,39 @@
+thead{background-color:#609966;
+}
+body{background-color:#EDF1D6;}
+.banner{
+	padding: 20px;
+	display: block;
+	height: 100px;
+	background-color: #40513B;
+	color: white;
+	text-align: center;
+}
+.bannerTable{
+	 border: 0px solid;
+}
+.bannerTd{border: 0px solid;
+}
+#bannerTdMVP{
+	 border: 0px solid;
+	 width:200px; 
+	text-align:left
+}
+#bannerTdNAA{
+	 border: 0px solid;
+	 width:200px; 
+	text-align:right
+}
+.logo{
+height:100px;  
+}
+
+table{margin-left: auto;
+margin-right: auto;
+table-layout: fixed;
+width: 100%;
+}
+table, th, td {
+	border: 1px solid;
+	text-align: center;
+}
